@@ -6,7 +6,5 @@ I am a Full-stack Web Developer currently working as a Front-end Developer at [E
 
 📧 Contact: Feel free to reach me at johnallendechavez23(at)gmail.com for any inquiries or collaborations. I'm always open to connecting with fellow developers and enthusiasts.
 
-Let's build something amazing together! Thank you for visiting my GitHub Portfolio.
+Let's build something amazing together!
 
-Best regards,
-John Allen De Chavez
