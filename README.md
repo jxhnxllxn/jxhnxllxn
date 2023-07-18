@@ -1,5 +1,6 @@
 ### Hi, I am John Allen 👋
 
+```
 I am a Full-stack Web Developer currently working as a Front-end Developer at [Eplayment Corp](https://www.eplayment.com). My passion lies in crafting web experiences that are both engaging and functional.
 
 🌐 Portfolio: Check out some of my recent projects and coding endeavors at [John Allen D.](https://johnallend.netlify.app). I've put my heart and soul into these creations, and I hope you enjoy exploring them.
@@ -8,3 +9,4 @@ I am a Full-stack Web Developer currently working as a Front-end Developer at [E
 
 Let's build something amazing together!
 
+```
