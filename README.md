@@ -1,4 +1,4 @@
-### Hi, I am John Allen 👋
+### Hi, I am John 👋
 
 
 I am a Full-stack Web Developer currently working as a Front-end Developer at [Eplayment Corp](https://www.eplayment.com). My passion lies in crafting web experiences that are both engaging and functional. 
